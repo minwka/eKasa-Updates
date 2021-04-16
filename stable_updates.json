@@ -1,0 +1,31 @@
+{
+    "branch": "stable",
+    "version": "4.2.0",
+    "description": "bu sürüm hatalı olabilir",
+    "file_list": [
+            {
+            "filepath": "7za.dll",
+            "hash": "3107CAECF7EC7A7CE12D05F9C3AB078F"
+            },
+            {
+            "filepath": "7za.exe",
+            "hash": "43141E85E7C36E31B52B22AB94D5E574"
+            },
+            {
+            "filepath": "7zxa.dll",
+            "hash": "786D4C74C05832A652BE5C0A559BE1E6"
+            },
+            {
+            "filepath": "x64/7za.dll",
+            "hash": "5E79330DFA8F102DA34A4AE39B181DA1"
+            },
+            {
+            "filepath": "x64/7za.exe",
+            "hash": "E86EFF95691B1C0E7E4F3E9CB1AE2E49"
+            },
+            {
+            "filepath": "x64/7zxa.dll",
+            "hash": "275114D5C4EE6285991160671424E162"
+            }
+    ]
+}
